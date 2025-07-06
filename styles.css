@@ -147,9 +147,9 @@ body {
 }
 
 .slide-text {
-  font-family: 'Dancing Script', cursive;
+  font-family:'Roboto Serif', serif;
   font-size: 1.3rem;
-  color: #ffffff; /* белый текст на голубом фоне */
+  color: #ffffff; 
   line-height: 1.4;
 }
 
